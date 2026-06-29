@@ -1,0 +1,500 @@
+﻿946375:test_microphone: packets=29081, regionSamples=2048, queuedSampleValues=1889280, sourcePlaying=True
+946382:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946386:QuestHandDataSender audio: sent audio frame count=11470, sequence=11469, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946400:test_microphone: packets=29176, regionSamples=2048, queuedSampleValues=1891840, sourcePlaying=True
+946407:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946411:QuestHandDataSender audio: sent audio frame count=11496, sequence=11495, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946425:test_microphone: packets=29271, regionSamples=2048, queuedSampleValues=1894400, sourcePlaying=True
+946432:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946436:QuestHandDataSender audio: sent audio frame count=11522, sequence=11521, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946450:test_microphone: packets=29366, regionSamples=2048, queuedSampleValues=1896960, sourcePlaying=True
+946457:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946461:QuestHandDataSender audio: sent audio frame count=11549, sequence=11548, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946475:test_microphone: packets=29460, regionSamples=2048, queuedSampleValues=1897472, sourcePlaying=True
+946482:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946486:QuestHandDataSender audio: sent audio frame count=11577, sequence=11576, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946500:test_microphone: packets=29554, regionSamples=2048, queuedSampleValues=1897984, sourcePlaying=True
+946507:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946511:QuestHandDataSender audio: sent audio frame count=11604, sequence=11603, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946525:test_microphone: packets=29648, regionSamples=2048, queuedSampleValues=1898496, sourcePlaying=True
+946532:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946536:QuestHandDataSender audio: sent audio frame count=11631, sequence=11630, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946550:test_microphone: packets=29742, regionSamples=2048, queuedSampleValues=1899008, sourcePlaying=True
+946557:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946561:QuestHandDataSender audio: sent audio frame count=11658, sequence=11657, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946575:test_microphone: packets=29836, regionSamples=2048, queuedSampleValues=1899520, sourcePlaying=True
+946582:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946586:QuestHandDataSender audio: sent audio frame count=11686, sequence=11685, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946600:test_microphone: packets=29932, regionSamples=2048, queuedSampleValues=1904128, sourcePlaying=True
+946607:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946611:QuestHandDataSender audio: sent audio frame count=11713, sequence=11712, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946625:test_microphone: packets=30026, regionSamples=2048, queuedSampleValues=1904640, sourcePlaying=True
+946632:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946636:QuestHandDataSender audio: sent audio frame count=11741, sequence=11740, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946650:test_microphone: packets=30121, regionSamples=2048, queuedSampleValues=1907200, sourcePlaying=True
+946657:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946661:QuestHandDataSender audio: sent audio frame count=11769, sequence=11768, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946675:test_microphone: packets=30215, regionSamples=2048, queuedSampleValues=1907712, sourcePlaying=True
+946682:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946686:QuestHandDataSender audio: sent audio frame count=11797, sequence=11796, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946700:test_microphone: packets=30310, regionSamples=2048, queuedSampleValues=1910272, sourcePlaying=True
+946707:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946711:QuestHandDataSender audio: sent audio frame count=11825, sequence=11824, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946725:test_microphone: packets=30404, regionSamples=2048, queuedSampleValues=1910784, sourcePlaying=True
+946732:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946736:QuestHandDataSender audio: sent audio frame count=11852, sequence=11851, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946750:test_microphone: packets=30498, regionSamples=2048, queuedSampleValues=1911296, sourcePlaying=True
+946757:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946761:QuestHandDataSender audio: sent audio frame count=11880, sequence=11879, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946775:test_microphone: packets=30591, regionSamples=2048, queuedSampleValues=1909760, sourcePlaying=True
+946782:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946786:QuestHandDataSender audio: sent audio frame count=11907, sequence=11906, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946800:test_microphone: packets=30686, regionSamples=2048, queuedSampleValues=1912320, sourcePlaying=True
+946807:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946811:QuestHandDataSender audio: sent audio frame count=11935, sequence=11934, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946825:test_microphone: packets=30780, regionSamples=2048, queuedSampleValues=1912832, sourcePlaying=True
+946832:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946836:QuestHandDataSender audio: sent audio frame count=11962, sequence=11961, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946850:test_microphone: packets=30874, regionSamples=2048, queuedSampleValues=1913344, sourcePlaying=True
+946857:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946861:QuestHandDataSender audio: sent audio frame count=11990, sequence=11989, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946875:test_microphone: packets=30969, regionSamples=2048, queuedSampleValues=1915904, sourcePlaying=True
+946882:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946886:QuestHandDataSender audio: sent audio frame count=12017, sequence=12016, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946900:test_microphone: packets=31063, regionSamples=2048, queuedSampleValues=1916416, sourcePlaying=True
+946907:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946911:QuestHandDataSender audio: sent audio frame count=12044, sequence=12043, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946925:test_microphone: packets=31157, regionSamples=2048, queuedSampleValues=1916928, sourcePlaying=True
+946932:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946936:QuestHandDataSender audio: sent audio frame count=12072, sequence=12071, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946950:test_microphone: packets=31252, regionSamples=2048, queuedSampleValues=1919488, sourcePlaying=True
+946957:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946961:QuestHandDataSender audio: sent audio frame count=12099, sequence=12098, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+946975:test_microphone: packets=31346, regionSamples=2048, queuedSampleValues=1920000, sourcePlaying=True
+946982:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+946986:QuestHandDataSender audio: sent audio frame count=12126, sequence=12125, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947000:test_microphone: packets=31441, regionSamples=2048, queuedSampleValues=1922560, sourcePlaying=True
+947007:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947011:QuestHandDataSender audio: sent audio frame count=12153, sequence=12152, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947025:test_microphone: packets=31535, regionSamples=2048, queuedSampleValues=1923072, sourcePlaying=True
+947032:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947036:QuestHandDataSender audio: sent audio frame count=12179, sequence=12178, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947050:test_microphone: packets=31629, regionSamples=2048, queuedSampleValues=1923584, sourcePlaying=True
+947057:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947061:QuestHandDataSender audio: sent audio frame count=12206, sequence=12205, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947075:test_microphone: packets=31724, regionSamples=2048, queuedSampleValues=1926144, sourcePlaying=True
+947082:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947086:QuestHandDataSender audio: sent audio frame count=12232, sequence=12231, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947100:test_microphone: packets=31818, regionSamples=2048, queuedSampleValues=1926656, sourcePlaying=True
+947107:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947111:QuestHandDataSender audio: sent audio frame count=12259, sequence=12258, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947125:test_microphone: packets=31912, regionSamples=2048, queuedSampleValues=1888768, sourcePlaying=True
+947132:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947136:QuestHandDataSender audio: sent audio frame count=12286, sequence=12285, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947150:test_microphone: packets=32006, regionSamples=2048, queuedSampleValues=1889280, sourcePlaying=True
+947157:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947161:QuestHandDataSender audio: sent audio frame count=12313, sequence=12312, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947175:test_microphone: packets=32100, regionSamples=2048, queuedSampleValues=1889792, sourcePlaying=True
+947182:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947186:QuestHandDataSender audio: sent audio frame count=12341, sequence=12340, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947200:test_microphone: packets=32194, regionSamples=2048, queuedSampleValues=1890304, sourcePlaying=True
+947207:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947211:QuestHandDataSender audio: sent audio frame count=12369, sequence=12368, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947225:test_microphone: packets=32289, regionSamples=2048, queuedSampleValues=1892864, sourcePlaying=True
+947232:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947236:QuestHandDataSender audio: sent audio frame count=12397, sequence=12396, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947250:test_microphone: packets=32383, regionSamples=2048, queuedSampleValues=1893376, sourcePlaying=True
+947257:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947261:QuestHandDataSender audio: sent audio frame count=12424, sequence=12423, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947275:test_microphone: packets=32476, regionSamples=2048, queuedSampleValues=1891840, sourcePlaying=True
+947282:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947286:QuestHandDataSender audio: sent audio frame count=12452, sequence=12451, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947300:test_microphone: packets=32571, regionSamples=2048, queuedSampleValues=1894400, sourcePlaying=True
+947307:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947311:QuestHandDataSender audio: sent audio frame count=12480, sequence=12479, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947325:test_microphone: packets=32666, regionSamples=2048, queuedSampleValues=1896960, sourcePlaying=True
+947332:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947336:QuestHandDataSender audio: sent audio frame count=12507, sequence=12506, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947350:test_microphone: packets=32761, regionSamples=2048, queuedSampleValues=1899520, sourcePlaying=True
+947357:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947361:QuestHandDataSender audio: sent audio frame count=12534, sequence=12533, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947375:test_microphone: packets=32855, regionSamples=2048, queuedSampleValues=1900032, sourcePlaying=True
+947382:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947386:QuestHandDataSender audio: sent audio frame count=12562, sequence=12561, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947400:test_microphone: packets=32950, regionSamples=2048, queuedSampleValues=1902592, sourcePlaying=True
+947407:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947411:QuestHandDataSender audio: sent audio frame count=12589, sequence=12588, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947425:test_microphone: packets=33045, regionSamples=2048, queuedSampleValues=1905152, sourcePlaying=True
+947432:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947436:QuestHandDataSender audio: sent audio frame count=12616, sequence=12615, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947450:test_microphone: packets=33139, regionSamples=2048, queuedSampleValues=1905664, sourcePlaying=True
+947457:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947461:QuestHandDataSender audio: sent audio frame count=12643, sequence=12642, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947475:test_microphone: packets=33234, regionSamples=2048, queuedSampleValues=1908224, sourcePlaying=True
+947482:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947486:QuestHandDataSender audio: sent audio frame count=12670, sequence=12669, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947500:test_microphone: packets=33328, regionSamples=2048, queuedSampleValues=1908736, sourcePlaying=True
+947507:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947511:QuestHandDataSender audio: sent audio frame count=12698, sequence=12697, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947525:test_microphone: packets=33422, regionSamples=2048, queuedSampleValues=1909248, sourcePlaying=True
+947532:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947536:QuestHandDataSender audio: sent audio frame count=12726, sequence=12725, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947550:test_microphone: packets=33517, regionSamples=2048, queuedSampleValues=1911808, sourcePlaying=True
+947557:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947561:QuestHandDataSender audio: sent audio frame count=12754, sequence=12753, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947575:test_microphone: packets=33611, regionSamples=2048, queuedSampleValues=1912320, sourcePlaying=True
+947582:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947586:QuestHandDataSender audio: sent audio frame count=12782, sequence=12781, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947600:test_microphone: packets=33705, regionSamples=2048, queuedSampleValues=1912832, sourcePlaying=True
+947607:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947611:QuestHandDataSender audio: sent audio frame count=12809, sequence=12808, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947625:test_microphone: packets=33800, regionSamples=2048, queuedSampleValues=1915392, sourcePlaying=True
+947632:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947636:QuestHandDataSender audio: sent audio frame count=12837, sequence=12836, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947650:test_microphone: packets=33893, regionSamples=2048, queuedSampleValues=1913856, sourcePlaying=True
+947657:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947661:QuestHandDataSender audio: sent audio frame count=12865, sequence=12864, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947675:test_microphone: packets=33987, regionSamples=2048, queuedSampleValues=1914368, sourcePlaying=True
+947682:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947686:QuestHandDataSender audio: sent audio frame count=12893, sequence=12892, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947700:test_microphone: packets=34082, regionSamples=2048, queuedSampleValues=1916928, sourcePlaying=True
+947707:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947711:QuestHandDataSender audio: sent audio frame count=12921, sequence=12920, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947725:test_microphone: packets=34176, regionSamples=2048, queuedSampleValues=1917440, sourcePlaying=True
+947732:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947736:QuestHandDataSender audio: sent audio frame count=12949, sequence=12948, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947750:test_microphone: packets=34270, regionSamples=2048, queuedSampleValues=1917952, sourcePlaying=True
+947757:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947761:QuestHandDataSender audio: sent audio frame count=12977, sequence=12976, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947775:test_microphone: packets=34365, regionSamples=2048, queuedSampleValues=1920512, sourcePlaying=True
+947782:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947786:QuestHandDataSender audio: sent audio frame count=13004, sequence=13003, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947800:test_microphone: packets=34460, regionSamples=2048, queuedSampleValues=1923072, sourcePlaying=True
+947807:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947811:QuestHandDataSender audio: sent audio frame count=13032, sequence=13031, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947825:test_microphone: packets=34554, regionSamples=2048, queuedSampleValues=1923584, sourcePlaying=True
+947832:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947836:QuestHandDataSender audio: sent audio frame count=13059, sequence=13058, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947850:test_microphone: packets=34647, regionSamples=2048, queuedSampleValues=1922048, sourcePlaying=True
+947857:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947861:QuestHandDataSender audio: sent audio frame count=13087, sequence=13086, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947875:test_microphone: packets=34741, regionSamples=2048, queuedSampleValues=1922560, sourcePlaying=True
+947882:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947886:QuestHandDataSender audio: sent audio frame count=13115, sequence=13114, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947900:test_microphone: packets=34836, regionSamples=2048, queuedSampleValues=1925120, sourcePlaying=True
+947907:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947911:QuestHandDataSender audio: sent audio frame count=13143, sequence=13142, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947925:test_microphone: packets=34930, regionSamples=2048, queuedSampleValues=1925632, sourcePlaying=True
+947932:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947936:QuestHandDataSender audio: sent audio frame count=13171, sequence=13170, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947950:test_microphone: packets=35025, regionSamples=2048, queuedSampleValues=1889792, sourcePlaying=True
+947957:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947961:QuestHandDataSender audio: sent audio frame count=13198, sequence=13197, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+947975:test_microphone: packets=35120, regionSamples=2048, queuedSampleValues=1892352, sourcePlaying=True
+947982:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+947986:QuestHandDataSender audio: sent audio frame count=13226, sequence=13225, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948000:test_microphone: packets=35217, regionSamples=2048, queuedSampleValues=1899008, sourcePlaying=True
+948007:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948011:QuestHandDataSender audio: sent audio frame count=13254, sequence=13253, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948025:test_microphone: packets=35311, regionSamples=2048, queuedSampleValues=1899520, sourcePlaying=True
+948032:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948036:QuestHandDataSender audio: sent audio frame count=13281, sequence=13280, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948050:test_microphone: packets=35405, regionSamples=2048, queuedSampleValues=1900032, sourcePlaying=True
+948057:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948061:QuestHandDataSender audio: sent audio frame count=13308, sequence=13307, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948075:test_microphone: packets=35498, regionSamples=2048, queuedSampleValues=1898496, sourcePlaying=True
+948082:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948086:QuestHandDataSender audio: sent audio frame count=13336, sequence=13335, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948100:test_microphone: packets=35593, regionSamples=2048, queuedSampleValues=1901056, sourcePlaying=True
+948107:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948111:QuestHandDataSender audio: sent audio frame count=13364, sequence=13363, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948125:test_microphone: packets=35689, regionSamples=2048, queuedSampleValues=1905664, sourcePlaying=True
+948132:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948136:test_microphone: packets=35784, regionSamples=2048, queuedSampleValues=1908224, sourcePlaying=True
+948143:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948147:QuestHandDataSender audio: sent audio frame count=13392, sequence=13391, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948161:QuestHandDataSender audio: sent audio frame count=13419, sequence=13418, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948175:test_microphone: packets=35879, regionSamples=2048, queuedSampleValues=1910784, sourcePlaying=True
+948182:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948186:test_microphone: packets=35974, regionSamples=2048, queuedSampleValues=1913344, sourcePlaying=True
+948193:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948197:QuestHandDataSender audio: sent audio frame count=13444, sequence=13443, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948211:test_microphone: packets=36069, regionSamples=2048, queuedSampleValues=1915904, sourcePlaying=True
+948218:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948222:QuestHandDataSender audio: sent audio frame count=13470, sequence=13469, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948236:test_microphone: packets=36164, regionSamples=2048, queuedSampleValues=1918464, sourcePlaying=True
+948243:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948247:QuestHandDataSender audio: sent audio frame count=13497, sequence=13496, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948261:test_microphone: packets=36258, regionSamples=2048, queuedSampleValues=1918976, sourcePlaying=True
+948268:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948272:QuestHandDataSender audio: sent audio frame count=13524, sequence=13523, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948286:test_microphone: packets=36352, regionSamples=2048, queuedSampleValues=1919488, sourcePlaying=True
+948293:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948297:QuestHandDataSender audio: sent audio frame count=13551, sequence=13550, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948311:test_microphone: packets=36448, regionSamples=2048, queuedSampleValues=1924096, sourcePlaying=True
+948318:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948322:QuestHandDataSender audio: sent audio frame count=13578, sequence=13577, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948336:test_microphone: packets=36542, regionSamples=2048, queuedSampleValues=1924608, sourcePlaying=True
+948343:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948347:QuestHandDataSender audio: sent audio frame count=13605, sequence=13604, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948361:test_microphone: packets=36637, regionSamples=2048, queuedSampleValues=1888768, sourcePlaying=True
+948368:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948372:QuestHandDataSender audio: sent audio frame count=13633, sequence=13632, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948386:test_microphone: packets=36731, regionSamples=2048, queuedSampleValues=1889280, sourcePlaying=True
+948393:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948397:QuestHandDataSender audio: sent audio frame count=13661, sequence=13660, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948411:test_microphone: packets=36826, regionSamples=2048, queuedSampleValues=1891840, sourcePlaying=True
+948418:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948422:QuestHandDataSender audio: sent audio frame count=13689, sequence=13688, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948436:test_microphone: packets=36921, regionSamples=2048, queuedSampleValues=1894400, sourcePlaying=True
+948443:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948447:QuestHandDataSender audio: sent audio frame count=13717, sequence=13716, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948461:test_microphone: packets=37014, regionSamples=2048, queuedSampleValues=1892864, sourcePlaying=True
+948468:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948472:QuestHandDataSender audio: sent audio frame count=13745, sequence=13744, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948486:test_microphone: packets=37109, regionSamples=2048, queuedSampleValues=1895424, sourcePlaying=True
+948493:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948497:QuestHandDataSender audio: sent audio frame count=13773, sequence=13772, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948511:test_microphone: packets=37203, regionSamples=2048, queuedSampleValues=1895936, sourcePlaying=True
+948518:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948522:QuestHandDataSender audio: sent audio frame count=13801, sequence=13800, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948536:test_microphone: packets=37298, regionSamples=2048, queuedSampleValues=1898496, sourcePlaying=True
+948543:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948547:QuestHandDataSender audio: sent audio frame count=13828, sequence=13827, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948561:test_microphone: packets=37392, regionSamples=2048, queuedSampleValues=1899008, sourcePlaying=True
+948568:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948572:QuestHandDataSender audio: sent audio frame count=13856, sequence=13855, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948586:test_microphone: packets=37487, regionSamples=2048, queuedSampleValues=1901568, sourcePlaying=True
+948593:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948597:QuestHandDataSender audio: sent audio frame count=13884, sequence=13883, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948611:test_microphone: packets=37581, regionSamples=2048, queuedSampleValues=1902080, sourcePlaying=True
+948618:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948622:QuestHandDataSender audio: sent audio frame count=13912, sequence=13911, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948636:test_microphone: packets=37676, regionSamples=2048, queuedSampleValues=1904640, sourcePlaying=True
+948643:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948647:QuestHandDataSender audio: sent audio frame count=13940, sequence=13939, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948661:test_microphone: packets=37771, regionSamples=2048, queuedSampleValues=1907200, sourcePlaying=True
+948668:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948672:QuestHandDataSender audio: sent audio frame count=13967, sequence=13966, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948686:test_microphone: packets=37865, regionSamples=2048, queuedSampleValues=1907712, sourcePlaying=True
+948693:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948697:QuestHandDataSender audio: sent audio frame count=13995, sequence=13994, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948711:test_microphone: packets=37960, regionSamples=2048, queuedSampleValues=1910272, sourcePlaying=True
+948718:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948722:QuestHandDataSender audio: sent audio frame count=14023, sequence=14022, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948736:test_microphone: packets=38054, regionSamples=2048, queuedSampleValues=1910784, sourcePlaying=True
+948743:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948747:QuestHandDataSender audio: sent audio frame count=14050, sequence=14049, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948761:test_microphone: packets=38148, regionSamples=2048, queuedSampleValues=1911296, sourcePlaying=True
+948768:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948772:QuestHandDataSender audio: sent audio frame count=14077, sequence=14076, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948786:test_microphone: packets=38242, regionSamples=2048, queuedSampleValues=1911808, sourcePlaying=True
+948793:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948797:QuestHandDataSender audio: sent audio frame count=14104, sequence=14103, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948811:test_microphone: packets=38336, regionSamples=2048, queuedSampleValues=1912320, sourcePlaying=True
+948818:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948822:QuestHandDataSender audio: sent audio frame count=14132, sequence=14131, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948836:test_microphone: packets=38431, regionSamples=2048, queuedSampleValues=1914880, sourcePlaying=True
+948843:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948847:QuestHandDataSender audio: sent audio frame count=14159, sequence=14158, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948861:test_microphone: packets=38525, regionSamples=2048, queuedSampleValues=1915392, sourcePlaying=True
+948868:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948872:QuestHandDataSender audio: sent audio frame count=14187, sequence=14186, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948886:test_microphone: packets=38620, regionSamples=2048, queuedSampleValues=1917952, sourcePlaying=True
+948893:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948897:QuestHandDataSender audio: sent audio frame count=14215, sequence=14214, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948911:test_microphone: packets=38714, regionSamples=2048, queuedSampleValues=1918464, sourcePlaying=True
+948918:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948922:QuestHandDataSender audio: sent audio frame count=14242, sequence=14241, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948936:test_microphone: packets=38809, regionSamples=2048, queuedSampleValues=1921024, sourcePlaying=True
+948943:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948947:QuestHandDataSender audio: sent audio frame count=14268, sequence=14267, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948961:test_microphone: packets=38904, regionSamples=2048, queuedSampleValues=1885184, sourcePlaying=True
+948968:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948972:QuestHandDataSender audio: sent audio frame count=14295, sequence=14294, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+948986:test_microphone: packets=38999, regionSamples=2048, queuedSampleValues=1887744, sourcePlaying=True
+948993:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+948997:QuestHandDataSender audio: sent audio frame count=14322, sequence=14321, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949011:test_microphone: packets=39093, regionSamples=2048, queuedSampleValues=1888256, sourcePlaying=True
+949018:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949022:QuestHandDataSender audio: sent audio frame count=14349, sequence=14348, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949036:test_microphone: packets=39187, regionSamples=2048, queuedSampleValues=1888768, sourcePlaying=True
+949043:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949047:QuestHandDataSender audio: sent audio frame count=14377, sequence=14376, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949061:test_microphone: packets=39280, regionSamples=2048, queuedSampleValues=1887232, sourcePlaying=True
+949068:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949072:QuestHandDataSender audio: sent audio frame count=14404, sequence=14403, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949086:test_microphone: packets=39375, regionSamples=2048, queuedSampleValues=1889792, sourcePlaying=True
+949093:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949097:QuestHandDataSender audio: sent audio frame count=14432, sequence=14431, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949111:test_microphone: packets=39469, regionSamples=2048, queuedSampleValues=1890304, sourcePlaying=True
+949118:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949122:QuestHandDataSender audio: sent audio frame count=14459, sequence=14458, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949136:test_microphone: packets=39563, regionSamples=2048, queuedSampleValues=1890816, sourcePlaying=True
+949143:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949147:QuestHandDataSender audio: sent audio frame count=14487, sequence=14486, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949161:test_microphone: packets=39658, regionSamples=2048, queuedSampleValues=1893376, sourcePlaying=True
+949168:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949172:QuestHandDataSender audio: sent audio frame count=14515, sequence=14514, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949186:test_microphone: packets=39753, regionSamples=2048, queuedSampleValues=1895936, sourcePlaying=True
+949193:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949197:QuestHandDataSender audio: sent audio frame count=14543, sequence=14542, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949211:test_microphone: packets=39847, regionSamples=2048, queuedSampleValues=1896448, sourcePlaying=True
+949218:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949222:QuestHandDataSender audio: sent audio frame count=14570, sequence=14569, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949236:test_microphone: packets=39941, regionSamples=2048, queuedSampleValues=1896960, sourcePlaying=True
+949243:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949247:QuestHandDataSender audio: sent audio frame count=14598, sequence=14597, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949261:test_microphone: packets=40036, regionSamples=2048, queuedSampleValues=1899520, sourcePlaying=True
+949268:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949272:QuestHandDataSender audio: sent audio frame count=14625, sequence=14624, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949286:test_microphone: packets=40131, regionSamples=2048, queuedSampleValues=1902080, sourcePlaying=True
+949293:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949297:QuestHandDataSender audio: sent audio frame count=14652, sequence=14651, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949311:test_microphone: packets=40226, regionSamples=2048, queuedSampleValues=1904640, sourcePlaying=True
+949318:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949322:QuestHandDataSender audio: sent audio frame count=14679, sequence=14678, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949336:test_microphone: packets=40320, regionSamples=2048, queuedSampleValues=1905152, sourcePlaying=True
+949343:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949347:QuestHandDataSender audio: sent audio frame count=14706, sequence=14705, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949361:test_microphone: packets=40415, regionSamples=2048, queuedSampleValues=1907712, sourcePlaying=True
+949368:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949372:QuestHandDataSender audio: sent audio frame count=14733, sequence=14732, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949386:test_microphone: packets=40510, regionSamples=2048, queuedSampleValues=1910272, sourcePlaying=True
+949393:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949397:QuestHandDataSender audio: sent audio frame count=14761, sequence=14760, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949411:test_microphone: packets=40605, regionSamples=2048, queuedSampleValues=1912832, sourcePlaying=True
+949418:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949422:QuestHandDataSender audio: sent audio frame count=14789, sequence=14788, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949436:test_microphone: packets=40699, regionSamples=2048, queuedSampleValues=1913344, sourcePlaying=True
+949443:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949447:QuestHandDataSender audio: sent audio frame count=14817, sequence=14816, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949461:test_microphone: packets=40793, regionSamples=2048, queuedSampleValues=1913856, sourcePlaying=True
+949468:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949472:QuestHandDataSender audio: sent audio frame count=14844, sequence=14843, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949486:test_microphone: packets=40887, regionSamples=2048, queuedSampleValues=1914368, sourcePlaying=True
+949493:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949497:QuestHandDataSender audio: sent audio frame count=14871, sequence=14870, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949511:test_microphone: packets=40980, regionSamples=2048, queuedSampleValues=1912832, sourcePlaying=True
+949518:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949522:QuestHandDataSender audio: sent audio frame count=14898, sequence=14897, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949536:test_microphone: packets=41075, regionSamples=2048, queuedSampleValues=1915392, sourcePlaying=True
+949543:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949547:QuestHandDataSender audio: sent audio frame count=14925, sequence=14924, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949561:test_microphone: packets=41169, regionSamples=2048, queuedSampleValues=1915904, sourcePlaying=True
+949568:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949572:QuestHandDataSender audio: sent audio frame count=14953, sequence=14952, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949586:test_microphone: packets=41263, regionSamples=2048, queuedSampleValues=1916416, sourcePlaying=True
+949593:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949597:QuestHandDataSender audio: sent audio frame count=14981, sequence=14980, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949611:test_microphone: packets=41358, regionSamples=2048, queuedSampleValues=1918976, sourcePlaying=True
+949618:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949622:QuestHandDataSender audio: sent audio frame count=15009, sequence=15008, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949636:test_microphone: packets=41451, regionSamples=2048, queuedSampleValues=1917440, sourcePlaying=True
+949643:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949647:QuestHandDataSender audio: sent audio frame count=15037, sequence=15036, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949661:test_microphone: packets=41545, regionSamples=2048, queuedSampleValues=1917952, sourcePlaying=True
+949668:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949672:QuestHandDataSender audio: sent audio frame count=15065, sequence=15064, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949686:test_microphone: packets=41639, regionSamples=2048, queuedSampleValues=1918464, sourcePlaying=True
+949693:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949697:QuestHandDataSender audio: sent audio frame count=15093, sequence=15092, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949711:test_microphone: packets=41734, regionSamples=2048, queuedSampleValues=1921024, sourcePlaying=True
+949718:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949722:QuestHandDataSender audio: sent audio frame count=15121, sequence=15120, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949736:test_microphone: packets=41829, regionSamples=2048, queuedSampleValues=1885184, sourcePlaying=True
+949743:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949747:QuestHandDataSender audio: sent audio frame count=15149, sequence=15148, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949761:test_microphone: packets=41922, regionSamples=2048, queuedSampleValues=1883648, sourcePlaying=True
+949768:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949772:QuestHandDataSender audio: sent audio frame count=15177, sequence=15176, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949786:test_microphone: packets=42017, regionSamples=2048, queuedSampleValues=1886208, sourcePlaying=True
+949793:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949797:QuestHandDataSender audio: sent audio frame count=15204, sequence=15203, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949811:test_microphone: packets=42111, regionSamples=2048, queuedSampleValues=1886720, sourcePlaying=True
+949818:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949822:QuestHandDataSender audio: sent audio frame count=15231, sequence=15230, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949836:test_microphone: packets=42206, regionSamples=2048, queuedSampleValues=1889280, sourcePlaying=True
+949843:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949847:QuestHandDataSender audio: sent audio frame count=15259, sequence=15258, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949861:test_microphone: packets=42300, regionSamples=2048, queuedSampleValues=1889792, sourcePlaying=True
+949868:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949872:QuestHandDataSender audio: sent audio frame count=15287, sequence=15286, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949886:test_microphone: packets=42394, regionSamples=2048, queuedSampleValues=1890304, sourcePlaying=True
+949893:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949897:QuestHandDataSender audio: sent audio frame count=15314, sequence=15313, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949911:test_microphone: packets=42486, regionSamples=2048, queuedSampleValues=1886720, sourcePlaying=True
+949918:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949922:QuestHandDataSender audio: sent audio frame count=15342, sequence=15341, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949936:test_microphone: packets=42582, regionSamples=2048, queuedSampleValues=1891328, sourcePlaying=True
+949943:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949947:QuestHandDataSender audio: sent audio frame count=15370, sequence=15369, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949961:test_microphone: packets=42676, regionSamples=2048, queuedSampleValues=1891840, sourcePlaying=True
+949968:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949972:QuestHandDataSender audio: sent audio frame count=15398, sequence=15397, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+949986:test_microphone: packets=42770, regionSamples=2048, queuedSampleValues=1892352, sourcePlaying=True
+949993:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+949997:test_microphone: packets=42864, regionSamples=2048, queuedSampleValues=1892864, sourcePlaying=True
+950004:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+950008:QuestHandDataSender audio: sent audio frame count=15426, sequence=15425, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+950022:test_microphone: packets=42959, regionSamples=2048, queuedSampleValues=1895424, sourcePlaying=True
+950029:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:107)
+950033:QuestHandDataSender audio: sent audio frame count=15453, sequence=15452, sampleRate=16000, channels=1, sampleCount=800, bytes=1600
+951965:test_microphone: packets=1, regionSamples=2048, queuedSampleValues=2048, sourcePlaying=False, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+951972:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+953126:test_microphone: packets=2, regionSamples=2048, queuedSampleValues=4096, sourcePlaying=False, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+953133:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954028:test_microphone: packets=60, regionSamples=2048, queuedSampleValues=4096, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+954035:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954075:QuestHandDataSender audio: waiting for microphone samples, position=0, availableFrames=0, neededFrames=800
+954089:test_microphone: packets=82, regionSamples=2048, queuedSampleValues=12288, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+954096:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954100:QuestHandDataSender audio: sent audio frame count=11, sequence=10, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0001
+954114:test_microphone: packets=151, regionSamples=2048, queuedSampleValues=20480, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+954121:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954125:QuestHandDataSender audio: sent audio frame count=45, sequence=44, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0003, inputPeak=0,0029
+954139:test_microphone: packets=221, regionSamples=2048, queuedSampleValues=12288, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+954146:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954150:QuestHandDataSender audio: sent audio frame count=80, sequence=79, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0001
+954164:test_microphone: packets=274, regionSamples=2048, queuedSampleValues=24576, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+954171:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954175:QuestHandDataSender audio: sent audio frame count=108, sequence=107, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0001
+954189:test_microphone: packets=341, regionSamples=2048, queuedSampleValues=16384, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+954196:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954200:QuestHandDataSender audio: sent audio frame count=140, sequence=139, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0001, inputPeak=0,0004
+954214:test_microphone: packets=403, regionSamples=2048, queuedSampleValues=22528, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+954221:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954225:QuestHandDataSender audio: sent audio frame count=172, sequence=171, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0002, inputPeak=0,0011
+954239:test_microphone: packets=479, regionSamples=2048, queuedSampleValues=24576, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+954246:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+954250:QuestHandDataSender audio: sent audio frame count=210, sequence=209, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0001
+954998:test_microphone: packets=589, regionSamples=2048, queuedSampleValues=90624, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+955005:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+955009:QuestHandDataSender audio: sent audio frame count=241, sequence=240, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+955023:test_microphone: packets=773, regionSamples=2048, queuedSampleValues=275456, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+955030:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+955034:QuestHandDataSender audio: sent audio frame count=265, sequence=264, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+955538:test_microphone: packets=922, regionSamples=2048, queuedSampleValues=388608, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+955545:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+955794:QuestHandDataSender audio: sent audio frame count=290, sequence=289, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+957663:test_microphone: packets=982, regionSamples=2048, queuedSampleValues=319488, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+957670:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+958024:QuestHandDataSender audio: sent audio frame count=316, sequence=315, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+959823:test_microphone: packets=1043, regionSamples=2048, queuedSampleValues=252416, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+959830:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+960219:QuestHandDataSender audio: sent audio frame count=342, sequence=341, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+961913:test_microphone: packets=1102, regionSamples=2048, queuedSampleValues=181248, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+961920:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+962309:QuestHandDataSender audio: sent audio frame count=367, sequence=366, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+963828:test_microphone: packets=1156, regionSamples=2048, queuedSampleValues=61440, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+963835:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+964189:QuestHandDataSender audio: sent audio frame count=393, sequence=392, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+965673:test_microphone: packets=1208, regionSamples=2048, queuedSampleValues=4096, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+965680:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+966104:QuestHandDataSender audio: sent audio frame count=418, sequence=417, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+967658:test_microphone: packets=1264, regionSamples=2048, queuedSampleValues=6144, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+967665:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+968054:QuestHandDataSender audio: sent audio frame count=445, sequence=444, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
+969482:test_microphone: packets=1315, regionSamples=2048, queuedSampleValues=6144, sourcePlaying=True, inputRms=0,0000, inputPeak=0,0000, outputRms=0,0000, outputPeak=0,0000
+969489:test_microphone:Update () (at Assets/hl2ss_Scripts/test/test_microphone.cs:112)
+970504:QuestHandDataSender audio: sent audio frame count=472, sequence=471, sampleRate=16000, channels=1, sampleCount=800, bytes=1600, inputRms=0,0000, inputPeak=0,0000
