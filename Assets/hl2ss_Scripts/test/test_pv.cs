@@ -12,7 +12,7 @@ public class test_pv : MonoBehaviour
     private TextureFormat texture_format;
     private int bpp;
 
-    // global: aktuelles PV-Bild + Pose
+    // Global current PV image and pose.
     public static Texture2D latestTexture;
     public static Matrix4x4 latestPosePV;
     public static bool hasPosePV = false;

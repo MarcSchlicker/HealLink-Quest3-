@@ -1,1 +1,0 @@
-C:\Users\Marc\Documents\Uni\.MedXR Unity Client - Kopie (2)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4s4h1s1a\obj\arm64-v8a

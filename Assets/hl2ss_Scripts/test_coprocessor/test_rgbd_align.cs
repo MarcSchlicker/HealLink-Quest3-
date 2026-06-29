@@ -5,9 +5,9 @@ using UnityEngine;
 public class test_rgbd_align : MonoBehaviour
 {
     [Header("Output quads")]
-    public GameObject rgb_image;        // zeigt PV-RGB
-    public GameObject d_image;          // zeigt Colormap-Depth
-    public GameObject depth_raw_quad;   // NEU: zeigt echte Depth (tex_d)
+    public GameObject rgb_image;        // Shows PV RGB.
+    public GameObject d_image;          // Shows colormapped depth.
+    public GameObject depth_raw_quad;   // Shows raw depth (tex_d).
 
     [Header("Colormap")]
     public int align_algorithm;
@@ -30,7 +30,7 @@ public class test_rgbd_align : MonoBehaviour
     private Texture2D tex_d;      // aligned Depth (float, Meter)
     private RenderTexture tex_d_r;
     private Material colormap_mat_lt;
-    private Material depth_raw_mat; // NEU: Material für echte Depth
+    private Material depth_raw_mat; // Material for raw depth.
 
     // Reusable buffers to avoid per-frame allocations
     private float[] tmpRawDepth;
@@ -106,7 +106,7 @@ public class test_rgbd_align : MonoBehaviour
         colormap_mat_lt.SetFloat("_Lf", 0.0f);
         colormap_mat_lt.SetFloat("_Rf", 7.5f);
 
-        // NEU: Material für echte Depth (RFloat)
+        // Material for raw depth (RFloat).
         depth_raw_mat = new Material(Shader.Find("Unlit/Texture"));
         depth_raw_mat.mainTexture = tex_d;
 

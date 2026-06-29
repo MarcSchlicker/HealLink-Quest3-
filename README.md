@@ -1,93 +1,84 @@
-# Medical XR Client
+# HealLink Quest 3 Client
 
+Unity client for the Quest 3 side of the HealLink mixed-reality setup. The app shows the HoloLens PV camera and AHAT depth view on a billboard in Quest space, lets the Quest user point/draw against that depth billboard, and sends hand, stroke, and optional microphone data back to the HoloLens.
 
+## Project Setup
 
-## Getting started
+- Unity: `6000.3.14f1`
+- Target platform: Android / Quest 3
+- Main scene: `Assets/Scenes/HealLinkQuest3.unity`
+- Build menu: `Build > Build Quest 3 APK`
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Generated Unity folders such as `Library`, `Temp`, `Logs`, build outputs, IDE files, diagnostics, and capture dumps are ignored and should not be committed.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Runtime Architecture
 
-## Add your files
+The Quest app has three main runtime areas:
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+1. HoloLens image intake
 
+`run_once` stores the HoloLens IP address and initializes HL2SS if the server is reachable. `rgbd_align_ahat` then opens the HL2SS PV and AHAT streams, displays the PV image on `Quad_PV`, creates the depth/debug view on `rm_depth_ahat_z`, and exposes the latest aligned depth frame for sampling.
+
+2. Quest interaction layer
+
+`BillboardFollow`, `FingerPosition`, and `DepthDistance` keep the image billboard usable from the Quest point of view. `DepthDistance` samples the latest depth frame so a Quest fingertip or pinch ray can be projected onto the measured HoloLens depth instead of floating at an arbitrary hand distance.
+
+3. Quest-to-HoloLens sender
+
+`QuestHandDataSender` reads Quest hand tracking, left-hand pinch strokes, and optional microphone audio. It sends this data to the HoloLens over UDP, using camera-relative coordinates by default so the HoloLens receiver can reconstruct positions relative to its own reference camera.
+
+## Network Setup
+
+1. Start the HL2SS/HoloLens server.
+2. Put Quest 3 and HoloLens on the same network.
+3. Find the HoloLens IPv4 address.
+4. Open `Assets/Scenes/HealLinkQuest3.unity`.
+5. Select the `HL2SS Scripts` object.
+6. Enter the HoloLens IP in `run_once > Host`.
+
+The same host is reused by `QuestHandDataSender` when `useRunOnceHost` is enabled. If needed, disable `useRunOnceHost` and set `targetHost` directly on `QuestHandDataSender`.
+
+Default ports:
+
+- HL2SS PV health check: `3810`
+- Quest hand/stroke UDP output: `5055`
+- Custom audio receiver: `5066`
+- WebRTC signaling: `5077` local / `5076` remote
+
+## Test Images
+
+The scene keeps two fallback/reference textures in `Assets/TestImages`:
+
+- `Quad1_20260609_181907.png` for `Quad_PV`
+- `Quad2_20260609_181907.png` for `rm_depth_ahat_z`
+
+`SaveQuadImages` is enabled in the scene and overwrites these two files every 20 seconds while Play Mode is running in the Unity Editor. That means the next successful editor run with the HoloLens server online refreshes the test images in place while keeping the existing Unity material GUIDs stable. Player builds keep this disabled by default because an installed Quest APK cannot write back into the Unity project folder.
+
+## Build
+
+Use the Unity menu item:
+
+```text
+Build > Build Quest 3 APK
 ```
-cd existing_repo
-git remote add origin https://gitlab.informatik.hu-berlin.de/schlickm/medical-xr-client.git
-git branch -M main
-git push -uf origin main
+
+The editor helper builds an Android ARM64 IL2CPP APK to:
+
+```text
+Builds/Quest3/MedXRQuest3.apk
 ```
 
-## Integrate with your tools
+For manual builds, make sure the active build target is Android, architecture is ARM64, and the enabled scene is `Assets/Scenes/HealLinkQuest3.unity`.
 
-- [ ] [Set up project integrations](https://gitlab.informatik.hu-berlin.de/schlickm/medical-xr-client/-/settings/integrations)
+## Important Scripts
 
-## Collaborate with your team
+- `Assets/hl2ss_Scripts/test/run_once.cs`: HoloLens host configuration and HL2SS initialization.
+- `Assets/Scripts/OwnHL2SS/rgbd_align_ahat.cs`: PV/AHAT intake, depth processing, and depth-frame publishing.
+- `Assets/Scripts/QuestHandDataSender.cs`: Quest hand, stroke, and audio sender.
+- `Assets/Scripts/DepthDistance.cs`: Depth sampling for fingertip and pinch projection.
+- `Assets/Scripts/FingerPosition.cs`: Quest fingertip marker on the billboard.
+- `Assets/Scripts/SaveQuadImages.cs`: Refreshes the two fallback test images from the live quad textures.
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+## Cleanup Notes
 
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+PointCloud experiments, recovery scenes, old unused helper scripts, local diagnostics, and generated build/cache data were removed from the project. Some Unity cache files may remain locally while Unity is open because the editor locks them; they are ignored and can be deleted after closing Unity.

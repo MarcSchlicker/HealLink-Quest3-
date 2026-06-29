@@ -38,7 +38,7 @@ public static class QuestApkBuilder
 
         if (scenes.Length == 0)
         {
-            scenes = new[] { "Assets/Scenes/SampleScene.unity" };
+            scenes = new[] { "Assets/Scenes/HealLinkQuest3.unity" };
         }
 
         BuildPlayerOptions options = new BuildPlayerOptions
