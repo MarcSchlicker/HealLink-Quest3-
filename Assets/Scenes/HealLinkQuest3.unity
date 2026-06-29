@@ -2652,7 +2652,6 @@ GameObject:
   - component: {fileID: 1497759129}
   - component: {fileID: 1497759130}
   - component: {fileID: 1497759131}
-  - component: {fileID: 1497759132}
   m_Layer: 0
   m_Name: Quad_PV_Depth
   m_TagString: Untagged
@@ -2875,28 +2874,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5b8469df83346744a28635ba60e0888, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WallBiasMap
---- !u!114 &1497759132
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1497759122}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 117ca462292d3e341844ca8b38a907ce, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SaveQuadImages
-  quad1: {fileID: 19550153}
-  quad2: {fileID: 110646735}
-  textureProperty: _MainTex
-  folderName: TestImages
-  overwriteExistingFiles: 1
-  quad1FileName: Quad1_20260609_181907.png
-  quad2FileName: Quad2_20260609_181907.png
-  autoSave: 1
-  saveInPlayerBuilds: 0
-  saveIntervalSeconds: 20
 --- !u!1 &1559195191
 GameObject:
   m_ObjectHideFlags: 0
